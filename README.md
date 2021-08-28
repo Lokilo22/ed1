@@ -1,2 +1,1 @@
-# ed1
-# ed1
+Projeto da faculdade, para facilictar o uso do git

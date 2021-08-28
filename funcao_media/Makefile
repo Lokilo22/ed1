@@ -8,10 +8,10 @@ CXXFLAGS = -std=c++11 -Wall
 LDFLAGS = 
 
 # Makefile settings - Can be customized.
-APPNAME = calculadora
+APPNAME = funcao1
 EXT = .cpp
-SRCDIR = C:\Users\vitor\OneDrive\Área de Trabalho\Victor\Estruturas de Dados\Aula3\src
-OBJDIR = C:\Users\vitor\OneDrive\Área de Trabalho\Victor\Estruturas de Dados\Aula3\obj
+SRCDIR = C:\Users\vitor\OneDrive\Área de Trabalho\Victor\Estruturas de Dados\funcoes\src
+OBJDIR = C:\Users\vitor\OneDrive\Área de Trabalho\Victor\Estruturas de Dados\funcoes\obj
 
 ############## Do not change anything from here downwards! #############
 SRC = $(wildcard $(SRCDIR)/*$(EXT))
