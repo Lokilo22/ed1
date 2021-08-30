@@ -10,8 +10,8 @@ LDFLAGS =
 # Makefile settings - Can be customized.
 APPNAME = calculadora
 EXT = .cpp
-SRCDIR = C:\Users\vitor\OneDrive\Área de Trabalho\Victor\Estruturas de Dados\Aula3\src
-OBJDIR = C:\Users\vitor\OneDrive\Área de Trabalho\Victor\Estruturas de Dados\Aula3\obj
+SRCDIR = src
+OBJDIR = obj
 
 ############## Do not change anything from here downwards! #############
 SRC = $(wildcard $(SRCDIR)/*$(EXT))
